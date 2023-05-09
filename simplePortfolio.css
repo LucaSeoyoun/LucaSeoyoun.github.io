@@ -1,0 +1,25 @@
+html {
+  text-align:center;
+}
+
+body {
+  background-color:lightsteelblue;
+  color:darksalmon;
+}
+
+main {
+  text-align: center;
+}
+
+main img.src {
+  height:100px;
+  width:100px;
+}
+
+main h3 {
+  color:mediumslateblue;
+}
+
+footer {
+  color:grey;
+}
